@@ -1,2 +1,2 @@
 # DrunkDriving-TrafficDecline-RiskAnalysis
-This repository contains code and analysis for the paper: "Traffic decline cannot offset the risk of relaxed drunk driving enforcement in Chinese cities". 
+This repository contains code and analysis for the paper: "Traffic reduction failed to decrease drunk driving crashes under weak law enforcement". 
